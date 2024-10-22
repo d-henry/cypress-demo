@@ -16,7 +16,7 @@ Follow the steps below to set up and run Cypress for this project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cypress-demo.git
+git clone https://github.com/d-henry/cypress-demo.git
 cd cypress-demo
 ```
 
